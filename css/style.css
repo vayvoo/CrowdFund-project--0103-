@@ -63,9 +63,11 @@ table {
 body{
     font-family: 'Commissioner';
     background: #F2F2F2;
+    max-width: 1440px;
 }
 .header_image{
     background-image: url(../images/image-hero-desktop.jpg);
+    background-repeat: no-repeat;
     height: 400px;
 }
 .navbar{
