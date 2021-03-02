@@ -69,6 +69,7 @@ body{
     background-image: url(../images/image-hero-desktop.jpg);
     background-repeat: no-repeat;
     height: 400px;
+    
 }
 .navbar{
     display: flex;
@@ -76,6 +77,8 @@ body{
     align-items: center;
     padding-top: 48px;
     padding-left: 166px;
+    background: linear-gradient(180deg, #000000 0%, rgba(134, 50, 50, 0.006) 100%);
+    
 }
 
 .navitems{
@@ -167,7 +170,7 @@ body{
     height: 56px;
 }
 .btnbookmark:hover{
-    opacity: 0.5;
+    opacity: 0.7;
 }
 .btnbookmark a{
     text-decoration: none;
